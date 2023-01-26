@@ -1,0 +1,7 @@
+﻿Practice Work:
+
+1. Try to open up 5 websites using ChromeDriver() object that is stored within "driver" variable.
+
+2. Bonus: Try to interact with some text box and sendKeys() to that textbox.
+
+ 
